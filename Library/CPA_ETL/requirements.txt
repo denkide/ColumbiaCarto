@@ -1,0 +1,6 @@
+arcetl
+etlassist
+pyodbc
+pypdf2
+reportlab
+sqlalchemy

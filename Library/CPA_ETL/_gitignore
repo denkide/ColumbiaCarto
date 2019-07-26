@@ -1,0 +1,14 @@
+# Python-specific compile/execution files
+__pycache__/
+*.py[cod]
+
+# Windows OS files
+Thumbs.db
+
+# Environment files.
+activate.bat
+activate2.bat
+activate3.bat
+
+# Non-code resources.
+resources/*

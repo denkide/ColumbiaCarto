@@ -1,0 +1,4 @@
+arcetl
+etlassist
+pyodbc
+requests

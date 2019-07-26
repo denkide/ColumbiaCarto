@@ -1,0 +1,4 @@
+arcpy
+funcsigs
+more_itertools
+requests
